@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "policyName": "Life Secure Plan",
+    "policyNumber": "POL123456",
+    "status": "Active",
+    "nextPremiumDue": "20-Jul-2025",
+    "startDate": "20-Jul-2020",
+    "maturityDate": "20-Jul-2040",
+    "sumAssured": "$100,000",
+    "premiumFrequency": "Annual",
+    "lastPremiumPaid": "20-Jul-2024",
+    "nextPremiumAmount": "$1,200"
+  },
+  {
+    "id": 2,
+    "policyName": "Health Plus",
+    "policyNumber": "POL987654",
+    "status": "Lapsed",
+    "nextPremiumDue": "15-Jul-2025",
+    "startDate": "15-Jul-2019",
+    "maturityDate": "15-Jul-2039",
+    "sumAssured": "$50,000",
+    "premiumFrequency": "Quarterly",
+    "lastPremiumPaid": "15-Apr-2024",
+    "nextPremiumAmount": "$300"
+  },
+  {
+    "id": 3,
+    "policyName": "Child Education Plan",
+    "policyNumber": "POL456789",
+    "status": "Active",
+    "nextPremiumDue": "25-Jul-2025",
+    "startDate": "25-Jul-2018",
+    "maturityDate": "25-Jul-2038",
+    "sumAssured": "$75,000",
+    "premiumFrequency": "Monthly",
+    "lastPremiumPaid": "25-Jun-2025",
+    "nextPremiumAmount": "$100"
+  }
+]
