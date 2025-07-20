@@ -16,8 +16,8 @@ The app demonstrates **MVVM (Model-View-ViewModel) architecture**, **clean code 
 ## Screenshots
 
 <p>
-  <img src="./Readme-Assets/Ping1.png" width="30%" alt="Image 1">
-  <img src="./Readme-Assets/Ping2.png" width="30%" alt="Image 2">
+  <img src="./Readme-Assets/Home.png" width="30%" alt="Image 1">
+  <img src="./Readme-Assets/Policies.png" width="30%" alt="Image 2">
 </p>
 
 ```
